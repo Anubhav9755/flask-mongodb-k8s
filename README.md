@@ -205,7 +205,7 @@ Screenshots:
 2. The autoscaler adding replicas under load
    ![hpa scale up](screenshots/03-hpa-scaleup.png)
 
-   ![hpa scale up](screenshots/03-hpa-scaleup(2).png)
+   ![hpa scale up](screenshots/03-hpa-scaleup2.png)
 
 3. Back to 2 replicas after the load stopped
    ![scale down](screenshots/04-scale-down.png)
