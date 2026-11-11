@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.env.example
+.git
+.gitignore
+k8s/
+tests/
+screenshots/
+README.md
