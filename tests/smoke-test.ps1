@@ -1,6 +1,4 @@
-# Quick checks against a running deployment.
-# Needs the app on localhost:5000 (kubectl port-forward svc/flask-service 5000:5000)
-# Run with: powershell -ExecutionPolicy Bypass -File .\tests\smoke-test.ps1
+
 param([string]$BaseUrl = "http://localhost:5000")
 $ProgressPreference = "SilentlyContinue"
 
